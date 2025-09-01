@@ -13,4 +13,5 @@ Các task:
 9. Tự động cập nhật                X
 10. Ghi log & đánh giá             X
 
-<img width="1216" height="518" alt="image" src="https://github.com/user-attachments/assets/01699940-8193-4069-848c-ad4b621afd3e" />
+<img width="1216" height="518" alt="image" src="https://github.com/user-attachments/assets/fe8bf63b-23bb-4922-9654-a30085b9c069" />
+
