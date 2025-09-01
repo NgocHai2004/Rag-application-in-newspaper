@@ -12,3 +12,5 @@ Các task:
 8. Xây frontend                    X
 9. Tự động cập nhật                X
 10. Ghi log & đánh giá             X
+
+<img width="1216" height="518" alt="image" src="https://github.com/user-attachments/assets/01699940-8193-4069-848c-ad4b621afd3e" />
