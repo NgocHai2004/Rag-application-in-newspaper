@@ -6,12 +6,12 @@ Các task:
 2. Làm sạch & chia đoạn            V
 3. Gắn metadata                    V
 4. Embedding đoạn văn              V
-5. Lưu vào Vector Database         X
-6. Xây RAG query engine            X
-7. Tạo API backend                 X
-8. Xây frontend                    X
-9. Tự động cập nhật                X
-10. Ghi log & đánh giá             X
+5. Lưu vào Vector Database         V
+6. Xây RAG query engine            V
+7. Tạo API backend                 V
+8. Xây frontend                    V
+9. Tích hợp                        V
+
 
 <img width="1216" height="518" alt="image" src="https://github.com/user-attachments/assets/fe8bf63b-23bb-4922-9654-a30085b9c069" />
 
